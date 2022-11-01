@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal project
+🔭 I’m currently working on personal project<br>
 🌱 I’m currently learning news tools for my web project 
 
 ## 🌐 Socials:
